@@ -1,0 +1,19 @@
+Criando o projeto
+npm init -y //Gerencia sub aplicações //cria o package.json
+
+Criando Servidor
+npm install express //instala o express
+
+chamando dependencia no JS
+require('express') //exemplo para chamar o Express
+
+Monitora o servidor reinciando o mesmos quando salvar alteração (Desenvolvedor)
+npm instal nodemon -D
+
+ Alterar o Package.json o Scripit
+	"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+	
+	"scripts": {
+    "dev": "nodemon src/server.js"
+	
