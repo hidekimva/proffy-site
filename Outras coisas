@@ -4,8 +4,8 @@ npm init -y //Gerencia sub aplicações //cria o package.json
 Criando Servidor
 npm install express //instala o express
 
-chamando dependencia no JS
-require('express') //exemplo para chamar o Express
+	chamando dependencia no JS
+	require('express') //exemplo para chamar o Express
 
 Monitora o servidor reinciando o mesmos quando salvar alteração (Desenvolvedor)
 npm instal nodemon -D
@@ -17,3 +17,6 @@ npm instal nodemon -D
 	"scripts": {
     "dev": "nodemon src/server.js"
 	
+npm install nunjucks //tamplate engenirinit ajuda na interface
+
+npm install sqlite-async //usado para instalar o SQLite usado como banco de dados neste projeto
