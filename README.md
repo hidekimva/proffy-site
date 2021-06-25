@@ -8,26 +8,31 @@ Projeto feito na Semana NEXT LEVEL WEEK da [@rocketseat](https://github.com/rock
 
 **Client:** Html, CSS, JavaScript
 
-## Instalação 
+  ## Executar localmente
 
-Clone o projeto usando o comando
+Clone o projeto
 
-```bash 
+```bash
   git clone https://github.com/hidekimva/siteProffy.git
 ```
 
-Execute o terminal no repositório como seguinte comando
+Vá para o diretório do projeto
 
-```bash 
+```bash
+  cd meu-projeco
+```
+
+Instale as dependências
+
+```bash
   yarn
 ```
-- Isso vai instalar as dependencias do projeto.
 
-Depois basta executar o comando
-```bash 
+Inicie o servidor
+
+```bash
   yarn dev
 ```
-- Isso vai executar projeto.
     
 ## Autor
 
