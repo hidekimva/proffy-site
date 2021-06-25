@@ -6,11 +6,8 @@ Projeto feito na Semana NEXT LEVEL WEEK da [@rocketseat](https://github.com/rock
 
 ## Tecnologias usada
 
-**Client:** Html, CSS
+**Client:** Html, CSS, JavaScript
 
-**Server:** JavaScript
-
-  
 ## Instalação 
 
 Clone o projeto usando o comando
